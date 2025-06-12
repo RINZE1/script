@@ -1,0 +1,10 @@
+#!name=ECGPro HRV Settings Modifier
+#!desc=Modifies settings-hrv.txt response for ECGPro app.
+#!category=App Enhancemen
+
+[Mitm]
+hostname = www.ecgpro.app
+
+[Script]
+# 修改ECGPro HRV设置响应
+http-response ^https:\/\/www\.ecgpro\.app\/settings-hrv\.txt script-path=https://raw.githubusercontent.com/RINZE1/script/refs/heads/main/ecgpro_settings_modifier.js, requires-body=1, tag=ECGPro设置修改

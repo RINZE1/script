@@ -1,0 +1,8 @@
+[Module]
+title = UnlockNetease
+
+[MITM]
+hostname = interface*.music.163.com, music.163.com
+
+[Rewrite]
+^https?:\/\/(interface3?\.)?music\.163\.com\/.* header-add X-Real-IP 101.226.168.228
