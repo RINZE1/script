@@ -2,4 +2,4 @@
 title = FixNetease
 
 [Rewrite]
-^https?:\/\/[a-zA-Z0-9-]+\.music\.126\.net\/.*$ header-replace User-Agent %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/3148\x20CFNetwork/1240.0.4\x20Darwin/20.6.0
+^http:\/\/[a-zA-Z0-9-]+\.music\.126\.net\/.*$ header-replace User-Agent %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/3148\x20CFNetwork/1240.0.4\x20Darwin/20.6.0
