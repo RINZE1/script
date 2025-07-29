@@ -1,4 +1,5 @@
 payload:
+- DOMAIN,ai.google.dev
 - DOMAIN,aistudio.google.com
 - DOMAIN,gemini.google.com
 - DOMAIN-SUFFIX,googleapis.com
