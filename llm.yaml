@@ -1,6 +1,7 @@
 payload:
 - DOMAIN,aistudio.google.com
 - DOMAIN,gemini.google.com
+- DOMAIN-SUFFIX,googleapis.com
 - DOMAIN-SUFFIX,bing.com
 - DOMAIN-SUFFIX,grok.com
 - DOMAIN-SUFFIX,openai.com
