@@ -1,4 +1,5 @@
 payload:
+- DOMAIN,alkalimakersuite-pa.clients6.google.com
 - DOMAIN,ai.google.dev
 - DOMAIN,aistudio.google.com
 - DOMAIN,gemini.google.com
