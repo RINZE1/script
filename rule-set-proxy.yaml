@@ -1,6 +1,4 @@
 payload:
-- DOMAIN-SUFFIX,openai.com
-- DOMAIN-SUFFIX,qwen.ai
 - DOMAIN-SUFFIX,mokexapp.net
 - DOMAIN-KEYWORD,binancecnt
 - DOMAIN-KEYWORD,binance
@@ -8,9 +6,6 @@ payload:
 - DOMAIN-SUFFIX,bnbstatic.com
 - DOMAIN-SUFFIX,okx.com
 - DOMAIN-SUFFIX,binance.com
-- DOMAIN-SUFFIX,claude.ai
-- DOMAIN-SUFFIX,chatgpt.com
-- DOMAIN-SUFFIX,deepseek.com
 - IP-CIDR,111.124.200.67/32,no-resolve
 - IP-CIDR,193.112.159.225/32,no-resolve
 - IP-CIDR,118.24.63.156/32,no-resolve
