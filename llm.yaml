@@ -1,3 +1,4 @@
+payload:
 - DOMAIN-SUFFIX,bing.com
 - DOMAIN-SUFFIX,grok.com
 - DOMAIN-SUFFIX,openai.com
