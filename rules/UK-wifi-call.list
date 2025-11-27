@@ -11,3 +11,4 @@ IP-CIDR,88.82.0.0/19,no-resolve
 IP-CIDR,46.68.0.0/17,no-resolve
 # Giffgaff
 IP-CIDR,87.194.0.0/16,no-resolve
+DOMAIN-SUFFIX,epdg.epc.mnc010.mcc234.pub.3gppnetwork.org
