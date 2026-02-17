@@ -105,7 +105,7 @@ payload:
 - DOMAIN,captive.apple.com
 # Apple Pay
 - DOMAIN,smp-device-content.apple.com
-DOMAIN-KEYWORD,smp-device
+- DOMAIN-KEYWORD,smp-device
 - USER-AGENT,passd*
 - USER-AGENT,Wallet*
 # locationd
@@ -115,7 +115,7 @@ DOMAIN-KEYWORD,smp-device
 # Reserve
 - DOMAIN,reserve-prime.apple.com
 # Push
-DOMAIN-KEYWORD,push-apple.com.akadns.net
+- DOMAIN-KEYWORD,push-apple.com.akadns.net
 - DOMAIN-SUFFIX,push.apple.com.akadns.net
 - DOMAIN-SUFFIX,push.apple.com
 # GeoServices.framework
