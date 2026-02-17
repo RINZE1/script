@@ -1,3 +1,4 @@
+payload:
 #Apple 直连
 - USER-AGENT,*com.apple.mobileme.fmip1
 # Weather
